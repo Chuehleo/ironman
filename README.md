@@ -1,6 +1,8 @@
 # Ironman game
 
-![image]((https://github.com/Chuehleo/ironman/issues/1#issue-1645417502)
+![image](https://user-images.githubusercontent.com/122568562/227843258-2ae69728-4f6c-47fc-9456-d0c73791c302.png)
+
+This is a moviestream webapp using React, NextJS, TailwindCSS & Prisma.
 
 
 
