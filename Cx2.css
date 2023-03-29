@@ -1,0 +1,107 @@
+@font-face {
+	font-family: Poppins;
+	src: url('./Poppins-Bold.ttf');
+}
+body{
+	background-image:url("img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	color: white;
+	font-family: Poppins;
+}
+canvas{
+	width: 1000px;
+	height: 500px;
+	margin:30px;
+	position: relative;
+	background: white;
+	border: 3px solid black;
+}
+#record{
+	font-size: 40px;
+	border: 3px solid white;
+}
+.description {
+	font-size: 25px;
+	margin-left: 50px;
+	color:#89D5F7;
+	text-shadow: 0 0 45px #89D5F7, 0 0 18px #89D5F7;
+}
+
+.scoreboard {
+	position: absolute;
+	width: 300px;
+	height: 500px;
+	top: 40px;
+	background-color: #000;
+	color: #89D5F7;
+	text-align: center;
+	left: 1043px;
+	font-size: 40px;
+	border: 3px solid #89D5F7;
+	text-shadow: 0 0 45px #89D5F7, 0 0 18px #89D5F7;
+}
+
+.points {
+	background-color: #39A4F5;
+	width: 200px;
+	color: #000;
+	margin: 50px auto;
+	padding: 10px;
+	box-shadow: 0 0 50px #39A4F5, 0 0 21px #39A4F5;
+}
+
+.gameover {
+	position: absolute;
+	z-index: 10;
+	top: 40px;
+	left: 40px;
+	width: 1312px;
+	height: 506px;
+	background-color: black;
+	text-align: center;
+}
+
+.hide {
+	display: none;
+}
+
+h1 {
+	color:#89D5F7;
+	font-size: 50px;
+	text-shadow: 0 0 50px #89D5F7, 0 0 21px #89D5F7;
+}
+
+h2 {
+	color:#89D5F7;
+	font-size: 40px;
+	text-shadow: 0 0 50px #89D5F7, 0 0 21px #89D5F7;
+
+}
+
+button {
+	display: block;
+	padding: 0px;
+	margin:10px;
+	width: 200px;
+	height: 60px;
+	background-color: #000;
+	color: #89D5F7;
+	border-radius: 20px;
+	border: 3px solid #89D5F7;
+	outline: none;
+	font-family: Poppins;
+	font-size: 20px;
+	cursor: pointer;
+}
+button:hover{
+	background:#89D5F7;
+	color:#000;
+	box-shadow: 0 0 50px#89D5F7, 0 0 21px #89D5F7;
+	 
+
+}
+.btndis{
+	display:flex;
+	justify-content: center;
+}
