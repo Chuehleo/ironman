@@ -1,3 +1,9 @@
+# Ironman game
+
+![image](https://user-images.githubusercontent.com/122568562/227843258-2ae69728-4f6c-47fc-9456-d0c73791c302.png)
+
+
+
 1.Download Nodejs
 
 2.Download and install Visual Studio Code
