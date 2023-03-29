@@ -1,6 +1,6 @@
 1.Download Nodejs
 
-2.Downlaod and install Visual Studio Code
+2.Download and install Visual Studio Code
 
 3.Open ironman folder with Visual Studio Code
 
