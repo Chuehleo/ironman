@@ -1,6 +1,6 @@
 # Ironman game
 
-![image]([https://user-images.githubusercontent.com/122568562/227843258-2ae69728-4f6c-47fc-9456-d0c73791c302.png](https://user-images.githubusercontent.com/122568562/228494476-15d5fc3c-7f7a-4ae7-8090-58cb3498ba23.png)
+![image](https://user-images.githubusercontent.com/122568562/228494476-15d5fc3c-7f7a-4ae7-8090-58cb3498ba23.png)
 
 This is a moviestream webapp using React, NextJS, TailwindCSS & Prisma.
 
