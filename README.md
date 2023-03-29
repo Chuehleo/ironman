@@ -1,6 +1,6 @@
 # Ironman game
 
-![image]((https://user-images.githubusercontent.com/122568562/228494476-15d5fc3c-7f7a-4ae7-8090-58cb3498ba23.png)
+![image]((https://github.com/Chuehleo/ironman/issues/1#issue-1645417502)
 
 
 
