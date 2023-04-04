@@ -2,8 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/122568562/228494476-15d5fc3c-7f7a-4ae7-8090-58cb3498ba23.png)
 
-This is a moviestream webapp using React, NextJS, TailwindCSS & Prisma.
-
 
 
 1.Download Nodejs
